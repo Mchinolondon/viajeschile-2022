@@ -1,0 +1,72 @@
+html  {
+  scroll-behavior: smooth;
+ 
+
+}
+
+
+
+body {
+  margin: 0px;
+  font-family: 'Open Sans',
+  sans-serif;
+  background-color: black;
+  color: white;
+}
+
+
+
+/* barra de Navegación*/
+
+.navbar-brand {
+  font-family: 'Open Sans',
+  sans-serif;
+}
+
+.img-responsive {
+  top: 12px;
+  left: 40px;
+  width: 300px;
+  height: 75px;
+}
+
+/* fin navbar*/
+
+
+/* Card*/
+.card-body{
+  background-color: #349ca7;
+}
+
+#vuelo{
+  background-color: #349ca7;
+  padding-left: 175px;
+
+}
+/*Fin Card*
+
+
+
+/* form*/
+#contacto{
+  align-items: center;
+}
+
+#button{
+  background-color: #349ca7;
+}
+/*fin Form*/
+
+
+
+
+/*Footer*/
+#footer{background-color: #349ca7;}
+i{
+  color: rgb(255, 255, 255);
+  
+}
+
+
+
+
